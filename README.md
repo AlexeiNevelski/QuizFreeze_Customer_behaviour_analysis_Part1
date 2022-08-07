@@ -1,5 +1,5 @@
 # QuizFreeze_Customer_behaviour_analysis_Part1
-My first training project using Pyhon in SkillFactory online-school (RUS version).
+My first training project using Pyhon in online-school SkillFactory (RUS version).
 
 Это мой первый учебный проект по анализу данных с использованием Python в онлайн-школе SkillFactory.
 
